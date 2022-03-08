@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nourmo888
+- 👋 Hi, I’m Nour.
 - 👀 I’m interested in data anlysis
 - 🌱 I’m currently learning business analytics
 - 💞️ I’m looking to collaborate on variable data projects to hone my skills.
